@@ -1,0 +1,11 @@
+//Template configuration file for the bot
+
+{
+	"token": "",
+	"botName": "mewu",
+	"clientId": "",
+	"pinBoardChannelId": "",
+	"embedProfileImageUrl": "",
+	"embedColor": "#479aff",
+	"discordServerUrl":""
+}

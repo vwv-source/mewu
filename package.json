@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "akaneko": "^5.2.7",
+    "anime-gifs-api": "^1.0.2",
+    "discord-actions": "^1.2.12",
+    "discord.js": "^14.11.0",
+    "google-images": "^2.1.0",
+    "jimp": "^0.22.8",
+    "mal-scraper": "^2.13.1",
+    "random-cat-img": "^1.0.11"
+  },
+  "name": "bawu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
